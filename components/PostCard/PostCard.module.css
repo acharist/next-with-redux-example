@@ -1,0 +1,14 @@
+.postCard {
+  min-width: 200px;
+  max-width: 400px;
+  width: 100%;
+  border: 1px solid #c23434;
+  padding: 20px;
+  border-radius: 4px;
+}
+
+.postTitle {
+  margin-bottom: 10px;
+  font-size: 1.5rem;
+  font-weight: medium;
+}

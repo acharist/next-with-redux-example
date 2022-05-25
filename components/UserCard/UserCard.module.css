@@ -1,0 +1,14 @@
+.userCard {
+  min-width: 200px;
+  max-width: 400px;
+  width: 100%;
+  border: 1px solid #4be782;
+  padding: 20px;
+  border-radius: 4px;
+}
+
+.userName {
+  margin-bottom: 10px;
+  font-size: 1.5rem;
+  font-weight: medium;
+}
